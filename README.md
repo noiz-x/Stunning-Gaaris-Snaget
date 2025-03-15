@@ -58,7 +58,7 @@ The circuit is based on a Tinkercad schematic with the following key details:
 1. **Clone the Repository:**
 
    ```sh
-   git clone {{REPO_URL}}
+   git clone https://github.com/noiz-x/arduino-blinker.git
    cd arduino-blinker
    ```
 
