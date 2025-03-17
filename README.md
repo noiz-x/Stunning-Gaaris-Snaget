@@ -66,7 +66,7 @@ The circuit is based on a Tinkercad schematic with the following key details:
 2. **Open the Project in Arduino IDE:**
    - Open Arduino IDE.
    - Go to **File → Open** and navigate to the `arduino-blinker` directory.
-   - Note: This project uses a `.cpp` file instead of a `.ino` file.
+   - Open the `.ino` file provided.
 
 3. **Connect Your Arduino:**
    - Connect your Arduino board to your computer via USB.
