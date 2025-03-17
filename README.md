@@ -40,6 +40,7 @@ A simple yet effective Arduino project that blinks an LED, perfect for beginners
 
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - Optionally, [Tinkercad](https://www.tinkercad.com/) for simulation and prototyping
+- [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for Visual Studio Code
 
 ## Circuit Diagram
 
@@ -65,7 +66,7 @@ The circuit is based on a Tinkercad schematic with the following key details:
 2. **Open the Project in Arduino IDE:**
    - Open Arduino IDE.
    - Go to **File → Open** and navigate to the `arduino-blinker` directory.
-   - Open the `.ino` file provided.
+   - Note: This project uses a `.cpp` file instead of a `.ino` file.
 
 3. **Connect Your Arduino:**
    - Connect your Arduino board to your computer via USB.
@@ -73,6 +74,21 @@ The circuit is based on a Tinkercad schematic with the following key details:
 4. **Upload the Code:**
    - Select your Arduino board model and the correct COM port from the **Tools** menu.
    - Click the **Upload** button to transfer the code to your Arduino board.
+
+## Running with PlatformIO
+
+1. **Open the Project in Visual Studio Code:**
+   - Open Visual Studio Code.
+   - Install the PlatformIO IDE extension if not already installed.
+   - Open the `arduino-blinker` directory.
+
+2. **Build the Project:**
+   - Click on the PlatformIO icon in the sidebar.
+   - Click on **Build** to compile the project.
+
+3. **Upload the Code:**
+   - Connect your Arduino board to your computer via USB.
+   - Click on **Upload** to transfer the code to your Arduino board.
 
 ## Usage
 
