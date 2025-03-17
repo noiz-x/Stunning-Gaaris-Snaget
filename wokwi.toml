@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/arduino-blinker.ino.hex'
+elf = 'build/arduino-blinker.ino.elf'
