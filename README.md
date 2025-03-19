@@ -9,6 +9,7 @@ A simple yet effective Arduino project that blinks an LED, perfect for beginners
 - [Requirements](#requirements)
 - [Circuit Diagram](#circuit-diagram)
 - [Installation](#installation)
+- [Running with PlatformIO](#running-with-platformio)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
 - [Troubleshooting](#troubleshooting)
