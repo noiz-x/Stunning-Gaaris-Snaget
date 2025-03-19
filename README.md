@@ -27,6 +27,7 @@ A simple yet effective Arduino project that blinks an LED, perfect for beginners
 - **Adjustable Interval:** Modify the blink timing easily in the source code.
 - **Beginner-Friendly:** Simple C++ code designed for learning and experimentation.
 - **Tinkercad Schematic:** A clear, prototyped circuit diagram for visual reference.
+- **KiCad Schematic:** A detailed circuit diagram available in the `docs/arduino-blinker.pdf` file.
 
 ## Requirements
 
@@ -54,6 +55,8 @@ The circuit is based on a Tinkercad schematic with the following key details:
   - The **anode** (longer leg) of the LED connects to pin **D13**.
   - The **cathode** (shorter leg) connects to one end of the resistor.
   - The other end of the resistor is connected to **GND**.
+
+For a detailed circuit diagram, refer to the KiCad schematic available in the `docs/arduino-blinker.pdf` file.
 
 ## Installation
 
