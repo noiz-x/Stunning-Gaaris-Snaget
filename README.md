@@ -1,6 +1,6 @@
 # Arduino Blinker
 
-A simple yet effective Arduino project that blinks an LED, perfect for beginners learning the basics of microcontroller programming. This project was designed and prototyped using Tinkercad, ensuring that both the circuit and code are straightforward and easy to follow.
+A simple yet effective Arduino project that blinks an LED, perfect for beginners learning the basics of microcontroller programming. This project was designed and prototyped using Wokwi, ensuring that both the circuit and code are straightforward and easy to follow.
 
 ## Table of Contents
 
